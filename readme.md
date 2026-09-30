@@ -195,7 +195,7 @@ Resource right-sizing and Spot Instance opportunities were also reviewed as part
 
 | **Name**     | **Email**                                                                                                                      |
 | ------------ | ------------------------------------------------------------------------------------------------------------------------------ |
-| Maqbool Alam | [[maqbul.alam.snaatak@mygurukulam.co](mailto:maqbul.alam.snaatak@mygurukulam.co)](mailto:<maqbul.alam.snaatak@mygurukulam.co>) |
+| Maqbool Alam | [maqbul.alam.snaatak@mygurukulam.co](mailto:maqbul.alam.snaatak@mygurukulam.co)|
 
 ---
 
