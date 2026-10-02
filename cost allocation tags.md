@@ -97,9 +97,8 @@ The following tags were defined for resource cost tracking:
 
 | **Tag**      | **Example Value** |
 | ------------ | ----------------- |
-| Project      | OTMS              |
+| Name      | OTMS              |
 | Environment  | Production        |
-| Owner        | DevOps            |
 | CostCenter   | Finance       |
 
 ---
