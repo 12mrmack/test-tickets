@@ -131,9 +131,11 @@ AWS Console
 
 Group the cost data by the activated Cost Allocation Tag.
 
-<!-- Add screenshot here -->
+><img width="1849" height="884" alt="image" src="https://github.com/user-attachments/assets/6706088b-d60a-4ca2-8cbc-529c3f0157ff" />
 
-<img src="screenshots/cost-explorer.png" alt="Cost Explorer Validation" />
+**Only Ec2 Service based Data found , But Tag based we haven't see any cost data because (No enough historical data to forecast your spend)**
+><img width="1849" height="884" alt="image" src="https://github.com/user-attachments/assets/316b8c0f-d788-4222-a656-863b77689732" />
+
 
 ---
 
